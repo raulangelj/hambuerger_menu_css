@@ -97,7 +97,7 @@ body {
 }
 
 .header .menu-btn:checked ~ .menu {
-  max-height: 240px;
+  max-height: fit-content;
 }
 
 .header .menu-btn:checked ~ .menu-icon .nav-icon{
